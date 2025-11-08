@@ -18,7 +18,7 @@ Raw data are **not** stored in this repo; the notebook downloads them programmat
 
 ---
 
-## Approach (in plain language)
+## Approach 
 
 1. **Exploratory analysis**
    - Look at class imbalance (Slight >> Serious >> Fatal) and distribution of key variables.
